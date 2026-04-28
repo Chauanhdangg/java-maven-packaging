@@ -9,6 +9,6 @@ public class Main {
     }
 
     public static String getMessage() {
-        return "Ngyễn Văn An";
+        return "Nguyễn Văn An";
     }
 }
